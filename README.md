@@ -1,1 +1,1 @@
-# movies-API-REST-JS-Course
+# movies-api-rest-js-Course
